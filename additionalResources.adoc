@@ -1,0 +1,7 @@
+== Additional Resources
+
+A list of *previous and future OGC sprints and hackathons* is available at https://www.ogc.org/projects/initiatives/ogcsprints
+
+OGC API website, https://ogcapi.ogc.org
+
+Blog posts about previous sprints, https://ogcapi.ogc.org/#blogs
