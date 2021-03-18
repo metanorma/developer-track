@@ -37,27 +37,16 @@ Agenda
 * 10:20 - 10:40 Overview of the OGC API – Environmental Data Retrieval candidate standard - Chris Little (Met Office)
 * 10:40 - 11:15 Break
 * 11:15 - 13:15 Practical work: Block 1
-
-- Retrieving vector tiles from OGC API - Tiles implementations using pygeoapi - Francesco Bartoli (OSGeo) - 40 minutes
-
--	Publishing data through implementations of the OGC API – Environmental Data Retrieval candidate standard
-
-- Mark Burgoyne (Met Office), Shane Mill (NWS), Igor Andruska (IBL) - 40 minutes
-
--	Development work - 40 minutes
-
+    - Retrieving vector tiles from OGC API - Tiles implementations using pygeoapi - Francesco Bartoli (OSGeo) - 40 minutes
+    - Publishing data through implementations of the OGC API – Environmental Data Retrieval candidate standard
+    - Mark Burgoyne (Met Office), Shane Mill (NWS), Igor Andruska (IBL) - 40 minutes
+    - Development work - 40 minutes
 * 13:15 - 15:15 Practical work: Block 2
-
--	Publishing your Python code as OGC API - Processes using pygeoapi - Tom Kralidis (MSC) - 40 minutes
-
--	Development work - 80 minutes
-
+    - Publishing your Python code as OGC API - Processes using pygeoapi - Tom Kralidis (MSC) - 40 minutes
+    - Development work - 80 minutes
 * 15:15 - 17:15 Practical work: Block 3
-
--	Publishing your geospatial metadata with pygeoapi - Tom Kralidis (MSC), Paul van Genuchten (GeoCat BV) - 40 minutes
-
--	Development work - 80 minutes
-
+    - Publishing your geospatial metadata with pygeoapi - Tom Kralidis (MSC), Paul van Genuchten (GeoCat BV) - 40 minutes
+    - Development work - 80 minutes
 * 17:15 - 18:15 Break
 * 18:15 - 19:00 Demonstrations
 * 19:00 - 19:30 Discussion
