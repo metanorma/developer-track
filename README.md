@@ -21,16 +21,8 @@ Participants (including any member of the audience) will be invited to present a
 
 Register at https://ogcmeet.org
 
-
-* [Specifications](./specs.adoc)
-* [Logistics](./logistics.adoc)
-* [Implementations](./implementations.adoc)
-* [Datasets](./Shared_Datasets/README.md)
-* [Lessons and Next Steps](./lessonsAndNextSteps.adoc)
-* [Additional Resources](./additionalResources.adoc)
-* [Frequently Asked Questions (FAQs)](./FAQ.adoc)
-
-**Agenda**
+Agenda
+------
 
 * 09:00 - 09:05 Welcome Remarks - Gobe Hobona (OGC)
 * 09:05 - 09:10 Participant Introductions - All
@@ -66,3 +58,14 @@ Register at https://ogcmeet.org
 * 18:15 - 19:00 Demonstrations
 * 19:00 - 19:30 Discussion
 * 19:30 - 19:45 Wrap up and Close
+
+Quick Links
+------
+
+* [Specifications](./specs.adoc)
+* [Logistics](./logistics.adoc)
+* [Implementations](./implementations.adoc)
+* [Datasets](./Shared_Datasets/README.md)
+* [Lessons and Next Steps](./lessonsAndNextSteps.adoc)
+* [Additional Resources](./additionalResources.adoc)
+* [Frequently Asked Questions (FAQs)](./FAQ.adoc)
