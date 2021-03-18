@@ -1,11 +1,11 @@
 # Developer Track at OGC Member Meetings
 
 
-
 This Github repository is for Developer Track sessions at OGC Member Meetings.
 
-[#OGCAPI](https://twitter.com/hashtag/OGCAPI)
+The Discussions are at https://github.com/opengeospatial/developer-track/discussions
 
+[#OGCAPI](https://twitter.com/hashtag/OGCAPI)
 
 About the Developer Track sessions
 ----------------
