@@ -17,7 +17,7 @@ About the next Developer Track session
 
 **When: Wednesday 24 March from 09:00 EDT to 19:45 EDT**
 
-Register at https://ogcmeet.org
+Register at https://portal.ogc.org/meet
 
 The focus of the next Developer Track session will be on OGC APIs for Processes, Records, Tiles and Environmental Data Retrieval. Each practical work block will include a training, followed by prototype development.
 
