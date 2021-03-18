@@ -56,7 +56,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 Quick Links
 ------
 
-* [Announcements](https://github.com/opengeospatial/developer-track/discussions/3)
+* [Announcements](https://github.com/opengeospatial/developer-track/discussions/6)
 * [Discussions](https://github.com/opengeospatial/developer-track/discussions)
 * [Specifications](./specs.adoc)
 * [Logistics](./logistics.adoc)
