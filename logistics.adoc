@@ -11,3 +11,7 @@
 *Chat*
 
 * Discussions https://github.com/opengeospatial/developer-track/discussions
+
+*Mailing list*
+
+developer.track**[at]**lists.ogc.org
