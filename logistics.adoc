@@ -10,4 +10,4 @@
 
 *Chat*
 
-* TBA
+* Discussions https://github.com/opengeospatial/developer-track/discussions

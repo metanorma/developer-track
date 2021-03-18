@@ -66,6 +66,7 @@ Agenda
 Quick Links
 ------
 
+* [Discussions](https://github.com/opengeospatial/developer-track/discussions)
 * [Specifications](./specs.adoc)
 * [Logistics](./logistics.adoc)
 * [Implementations](./implementations.adoc)
