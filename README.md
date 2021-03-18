@@ -38,7 +38,7 @@ Agenda
 * 10:40 - 11:15 Break
 * 11:15 - 13:15 Practical work: Block 1
     - Retrieving vector tiles from OGC API - Tiles implementations using pygeoapi - Francesco Bartoli (OSGeo) - 40 minutes ([More info](https://github.com/geopython/pygeoapi/wiki/pygeoapi-abstract-for-OGC-2021-03-Member-Meeting-Developer-Track))
-    - Publishing data through implementations of the OGC API – Environmental Data Retrieval candidate standard - Mark Burgoyne (Met Office), Shane Mill (NWS), Igor Andruska (IBL) - 40 minutes
+    - Publishing data through implementations of the OGC API – Environmental Data Retrieval candidate standard - Mark Burgoyne (Met Office), Shane Mill (NWS), Igor Andruska (IBL) - 40 minutes ([More info](https://github.com/opengeospatial/ogcapi-environmental-data-retrieval/blob/master/implementations.md))
     - Development work - 40 minutes
 * 13:15 - 15:15 Practical work: Block 2
     - Publishing your Python code as OGC API - Processes using pygeoapi - Tom Kralidis (MSC) - 40 minutes ([More info](https://github.com/geopython/pygeoapi/wiki/pygeoapi-abstract-for-OGC-2021-03-Member-Meeting-Developer-Track))
