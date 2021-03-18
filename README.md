@@ -12,8 +12,10 @@ About the Developer Track sessions
 
 The goal of the Developer Track sessions is to provide developers with exposure to the draft OGC standards, as well as to share productivity advice about implementing the standards.
 
-About the next Developer Track session on Wednesday 24 March from 09:00 EDT to 19:45 EDT.
+About the next Developer Track session
 ----------------
+
+When: **Wednesday 24 March from 09:00 EDT to 19:45 EDT**
 
 Register at https://ogcmeet.org
 
