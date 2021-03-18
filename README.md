@@ -28,6 +28,8 @@ Participants (including any member of the audience) will be invited to present a
 Agenda
 ------
 
+Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-york)
+
 * 09:00 - 09:05 Welcome Remarks - Gobe Hobona (OGC)
 * 09:05 - 09:10 Participant Introductions - All
 * 09:10 - 09:20 Program for the day and Ways of Working - Gobe Hobona (OGC)
