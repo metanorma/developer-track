@@ -33,30 +33,5 @@ Presenter: *Ignacio "Nacho" Correas - [Skymantics]*
 Abstract: *A quick and dirty hack to add a routing process to pygeoapi, which calculates the travel time of the fastest route to Madrid airport, using Madrid area from Open Street Maps*
 
 
-=== Entry 4
-
-Title: *Title of the demonstration*
-
-Presenter: *FirstName LastName - [OrganizationName optional]*
-
-Abstract: *Maximum 100 word description*
-
-
-=== Entry 5
-
-Title: *Title of the demonstration*
-
-Presenter: *FirstName LastName - [OrganizationName optional]*
-
-Abstract: *Maximum 100 word description*
-
-
-=== Entry 6
-
-Title: *Title of the demonstration*
-
-Presenter: *FirstName LastName - [OrganizationName optional]*
-
-Abstract: *Maximum 100 word description*
 
 
