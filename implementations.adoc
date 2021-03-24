@@ -65,7 +65,7 @@
 | OGC API - Features/Coverages/Maps/Tiles/Styles
 | http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
-| https://www.pvretano.com/cubewerx/cubeserv/default/ogcapi/catalogues[CubeWerx Development/Demonstration Calagoues]
+| https://www.pvretano.com/cubewerx/cubeserv/default/ogcapi/catalogues[CubeWerx Development/Demonstration Catalogues]
 | OGC API - Records
 | http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
