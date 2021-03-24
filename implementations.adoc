@@ -8,9 +8,17 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://docs.geoserver.org/latest/en/user/community/mapml/index.html[GeoServer MapML Community Module User's Guide]
+| User (administrator) Guide
+| https://github.com/prushforth[Pete Rushforth]
+
+| https://maps4html.org/web-map-doc/[Web-Map-Custom-Element]
+| Web developer
+| https://github.com/ahmadayubi[Ahmad Ayubi]
+
+| https://github.com/flagis/ogcapi_s2[NodeJS Tutorial for OGC API - Features (in Dutch language)]
+| OGC API - Features
+| https://github.com/lathoub[@lathoub]
 
 | TBA
 | TBA
@@ -25,17 +33,50 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://demo.ldproxy.net/[ldproxy demo] - https://github.com/interactive-instruments/ldproxy[git] - https://geoinfodok.ldproxy.net/geoinfodok[sprint instance]
+| OGC API - Features/Tiles/Styles (demo) and Records (sprint instance)
+| https://github.com/cportele[Clemens Portele]
 
-| TBA
-| TBA
-| TBA
+| https://demo.pygeoapi.io/master[pygeoapi demo] - https://github.com/geopython/pygeoapi[git]
+| OGC API - Features/Tiles/Processes/Records/STAC/Coverages
+| https://github.com/tomkralidis[Tom Kralidis]
 
-| TBA
-| TBA
-| TBA
+| https://apps.titellus.net/ogcapi/[GeoNetwork] - https://github.com/geonetwork/geonetwork-microservices[git]
+| OGC API - Records
+| https://github.com/fxprunayre[François Prunayre]
+
+| http://cloudsdi.geo-solutions.it/geoserver/wfs3[GeoServer] -  https://github.com/geoserver/geoserver/tree/master/src/community/ogcapi[git]
+| OGC API - Features/Styles/Tiles
+|
+
+| https://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-ogc-api-for-features-protocol[QGIS server]
+| OGC API - Features
+|
+
+| https://data-api-mdl.nws.noaa.gov/EDR-API[NOAA NWS EDR-API prototype implementation]
+| OGC API - EDR
+| https://github.com/ShaneMill1[Shane Mill]
+
+| https://ogcie.iblsoft.com/edr[IBL EDR-API implementation] (https://github.com/opengeospatial/ogcapi-environmental-data-retrieval/blob/master/Implementations.md#ibl-software-engineering[Details and query examples])
+| OGC API - EDR
+| https://github.com/iandruska-ibl[Igor Andruska]
+
+| https://maps.ecere.com/ogcapi[GNOSIS Map Server]
+| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
+| https://github.com/jerstlouis[Jerome St-Louis]
+
+| https://docs.geoserver.org/latest/en/user/community/mapml/index.html[MapML] -  https://github.com/Maps4HTML/geoserver[git]
+| OGC / W3C MapML - Features/Tiles/Maps/CSS
+| https://github.com/prushforth[Pete Rushforth]
+
+| https://test.cubewerx.com/cubewerx/cubeserv/demo[CubeWerx Demonstration Server]
+| OGC API - Features/Coverages/Maps/Tiles/Styles
+| http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
+
+| https://demo.mapmint.com/ogc-api/index.html[ZOO-Project Demonstration Server]
+| OGC API - Processes
+| http://github.com/gfenoy[Gérald Fenoy]
+
 |===
 
 
@@ -47,14 +88,49 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://gdal.org/drivers/vector/oapif.html[GDAL/OGR]
+| OGC API - Features, Maps, Tiles, Coverages
+|
+
+| https://docs.qgis.org/testing/en/docs/user_manual/working_with_ogc/ogc_client_support.html?highlight=wfs3#wfs-and-wfs-t-client[qgis] - https://github.com/qgis/QGIS/blob/master/src/providers/wfs/qgsoapifprovider.cpp[git]
+| OGC API - Features
+|
+
+| https://geopython.github.io/OWSLib/#ogc-api[OWSLib] - https://github.com/geopython/OWSLib/tree/master/owslib/ogcapi[git]
+| OGC API - Features, OGC API - Coverages, OGC API - Records
+|
+
+| https://ecere.ca/gnosis[GNOSIS Cartographer]
+| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
+| https://github.com/jerstlouis[Jerome St-Louis]
+
+| https://geogratis.gc.ca/mapml/en/cbmtile/fdi/[Web-Map-Custom-Element] - https://github.com/Maps4HTML/Web-Map-Custom-Element[git]
+| OGC / W3C MapML - Extension of HTML for Maps
+|
 
 | TBA
 | TBA
 | TBA
 |===
+
+
+=== Libraries for client or server implementations
+
+[#table_implementation,reftext='{table-caption} {counter:table-num}']
+.Libraries
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Library | Type | Contact
+
+| https://sis.apache.org[Apache SIS]
+| OGC/ISO metadata, referencing, feature, coverage
+| https://github.com/desruisseaux[Martin Desruisseaux]
+
+| https://github.com/Kortforsyningen/PROJ-JNI[PROJ-JNI]
+| GeoAPI wrappers for referencing services
+| https://github.com/desruisseaux[Martin Desruisseaux]
+|===
+
 
 === Executable Test Suite
 
@@ -64,8 +140,8 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://github.com/opengeospatial/ets-ogcapi-edr10[ETS for the OGC API - Environmental Data Retrieval candidate standard]
+| Executable Test Suite
+| https://github.com/ghobona[Gobe Hobona]
 
 |===
