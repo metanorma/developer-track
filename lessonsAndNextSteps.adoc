@@ -2,14 +2,24 @@
 
 == Immediate Lessons
 
-* TBA
-* TBA
+* It's a good sign that an application based on OGC API - Processes can be built in an hour.
+* There could be opportunities for transactional workflows, involving posting of Python code (or other language) to the API.
+* When an application is running in a docker container, there is no interface for the applications to report back what the status is.
+* It might be possible to send over the distribution as well to the API and register it for future execution.
+* All of the dependencies would have to be provided to enable the code to run properly.
+* There may be a need to provide additional information. The protocol may need to be more complex.
+* If you would like to have bidirectional comms between the applications, you could use web sockets.
+* Applications could also use webhooks etc.
+* It would be great if a package was provided to enable bi-directional communication between applications.
+* If you are building a new applications and want to deploy it in a docker solution, there is no way to enable the application to report on its current status during execution of a process.
+* Does the status resource of OGC API - Processes support that? The status resource allows for reporting percent complete. However, there is no way for the application running in the docker instance to communicate to the API that it is x percent done.
 
 == Next Steps for the innovation side
 
-* TBA
+* Experimentation on applications running underneath an OGC API - Process instance and being able to communicate their status to the Processes API.
+* Experiment with making process descriptions a profile of OpenAPI.
+* Prototyping of the ability to send code in different programming languages to an instance of OGC API - Processes for execution.
 
 == Next Steps on the standards side
 
-* TBA
-* TBA
+* Conformance class for ISO 19115-3 for OGC API - Records
