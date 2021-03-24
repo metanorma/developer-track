@@ -8,20 +8,19 @@ All participants will be able to vote for their favorite demonstration
 
 === Entry 1
 
-Title: *Title of the demonstration*
+Title: *CubeWerx TEP Demonstration*
 
-Presenter: *FirstName LastName - [OrganizationName optional]*
+Presenter: *Panagiotis (Peter) A. Vretanos - [CubeWerx Inc.]*
 
-Abstract: *Maximum 100 word description*
+Abstract: A demonstration of part of a themathic exploitation platform that shows OGC API - Processes and OGC API - Records working together to execute deployed processes in distributed cloud environment (AWS).
 
 === Entry 2
 
-Title: *Title of the demonstration*
+Title: *CubeWerx OGC API - Records with legacy output formats*
 
-Presenter: *FirstName LastName - [OrganizationName optional]*
+Presenter: *Panagiotis (Peter) A. Vretanos - [CubeWerx Inc.]*
 
-Abstract: *Maximum 100 word description*
-
+Abstract: A quick demo of an OGC API - Records server generating legacy output formats (CSW Record, etc.).
 
 === Entry 3
 
