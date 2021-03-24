@@ -1,0 +1,26 @@
+== Demonstrations
+
+This page lists all of the demonstrations that are to be presented during the Demonstration session. 
+
+Participants (including any member of the audience) will be invited to present a demonstration of their prototype during the Demonstrations session. 
+
+All participants will be able to vote for their favorite demonstration
+
+[#table_demos,reftext='{table-caption} {counter:table-num}']
+.Demonstrations
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact name or GitHub handle
+
+| TBA
+| TBA
+| TBA
+
+| TBA
+| TBA
+| TBA
+
+| TBA
+| TBA
+| TBA
+|===
