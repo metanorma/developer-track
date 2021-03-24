@@ -21,3 +21,9 @@
 * OGC API - Environmental Data Retrieval, https://ogcapi.ogc.org/edr
 
 * OGC API - Routes, https://github.com/opengeospatial/ogcapi-routes
+
+=== Example API definition documents
+
+An example OpenAPI definition document that implements *OGC API - Tiles* and *OGC API - Maps* can also be found at https://app.swaggerhub.com/apis/UAB-CREAF/ogc-api-map-tiles-opf-xmp-mt-more-1-collection/1.0.0
+
+An example OpenAPI definition document that implements *OGC API - Processes* can also be found at https://app.swaggerhub.com/apis/geoprocessing/ogcapi-processes/1.0-draft.6-SNAPSHOT
