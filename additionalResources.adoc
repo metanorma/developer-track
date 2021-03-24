@@ -5,3 +5,13 @@ A list of *previous and future OGC sprints and hackathons* is available at https
 OGC API website, https://ogcapi.ogc.org
 
 Blog posts about previous sprints, https://ogcapi.ogc.org/#blogs
+
+OS Open Zoomstack, https://os.uk/business-government/products/open-zoomstack
+
+ESA Copernicus Open Access Hub, https://scihub.copernicus.eu/dhus/#/home
+
+NASA Open Data, https://open.nasa.gov/open-data/
+
+JAXA Data Distribution service, https://www.eorc.jaxa.jp/en/distribution/
+
+
