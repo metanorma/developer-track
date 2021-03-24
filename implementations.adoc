@@ -33,6 +33,10 @@
 | OGC API - Features/Tiles/Processes/Records/STAC/Coverages
 | https://github.com/tomkralidis[Tom Kralidis]
 
+| https://github.com/OGCMetOceanDWG/metocean-pygeoapi[metocean pygeoapi]
+| OGC API - EDR/Features/Tiles/Processes/Records/STAC/Coverages
+| https://github.com/tomkralidis[Tom Kralidis]
+
 | https://apps.titellus.net/ogcapi/[GeoNetwork] - https://github.com/geonetwork/geonetwork-microservices[git]
 | OGC API - Records
 | https://github.com/fxprunayre[François Prunayre]
