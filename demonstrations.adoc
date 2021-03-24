@@ -6,6 +6,10 @@ Participants (including any member of the audience) will be invited to present a
 
 All participants will be able to vote for their favorite demonstration
 
+*Anyone planning to do a demo should register the demo by 17:30 EDT (21:30 GMT) at* https://github.com/opengeospatial/developer-track/blob/main/demonstrations.adoc
+
+Simply create a Pull Request and we will merge it into the document.
+
 === Entry 1
 
 Title: *CubeWerx TEP Demonstration*
