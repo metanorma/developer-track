@@ -6,21 +6,56 @@ Participants (including any member of the audience) will be invited to present a
 
 All participants will be able to vote for their favorite demonstration
 
-[#table_demos,reftext='{table-caption} {counter:table-num}']
-.Demonstrations
-[cols=",,",width="75%",options="header",align="center"]
-|===
-|Implementation | Type | Contact name or GitHub handle
+=== Entry 1
 
-| TBA
-| TBA
-| TBA
+Title: *Title of the demonstration*
 
-| TBA
-| TBA
-| TBA
+Presenter: *FirstName LastName - [OrganizationName optional]*
 
-| TBA
-| TBA
-| TBA
-|===
+Abstract: *Maximum 100 word description*
+
+=== Entry 2
+
+Title: *Title of the demonstration*
+
+Presenter: *FirstName LastName - [OrganizationName optional]*
+
+Abstract: *Maximum 100 word description*
+
+
+=== Entry 3
+
+Title: *Title of the demonstration*
+
+Presenter: *FirstName LastName - [OrganizationName optional]*
+
+Abstract: *Maximum 100 word description*
+
+
+=== Entry 4
+
+Title: *Title of the demonstration*
+
+Presenter: *FirstName LastName - [OrganizationName optional]*
+
+Abstract: *Maximum 100 word description*
+
+
+=== Entry 5
+
+Title: *Title of the demonstration*
+
+Presenter: *FirstName LastName - [OrganizationName optional]*
+
+Abstract: *Maximum 100 word description*
+
+
+=== Entry 6
+
+Title: *Title of the demonstration*
+
+Presenter: *FirstName LastName - [OrganizationName optional]*
+
+Abstract: *Maximum 100 word description*
+
+
