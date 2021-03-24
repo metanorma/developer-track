@@ -114,22 +114,7 @@
 |===
 
 
-=== Libraries for client or server implementations
 
-[#table_implementation,reftext='{table-caption} {counter:table-num}']
-.Libraries
-[cols=",,",width="75%",options="header",align="center"]
-|===
-|Library | Type | Contact
-
-| https://sis.apache.org[Apache SIS]
-| OGC/ISO metadata, referencing, feature, coverage
-| https://github.com/desruisseaux[Martin Desruisseaux]
-
-| https://github.com/Kortforsyningen/PROJ-JNI[PROJ-JNI]
-| GeoAPI wrappers for referencing services
-| https://github.com/desruisseaux[Martin Desruisseaux]
-|===
 
 
 === Executable Test Suite
