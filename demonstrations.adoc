@@ -6,9 +6,7 @@ Participants (including any member of the audience) will be invited to present a
 
 All participants will be able to vote for their favorite demonstration
 
-*Anyone planning to do a demo should register their demo by 17:30 EDT (21:30 GMT) on this page.*
-
-Simply create a Pull Request and we will merge it into the document.
+*Registration of new demos closed at 17:40 EDT*
 
 === Entry 1
 
