@@ -25,8 +25,8 @@
 |===
 |Implementation | Type | Contact
 
-| https://demo.ldproxy.net/[ldproxy demo] - https://github.com/interactive-instruments/ldproxy[git] - https://geoinfodok.ldproxy.net/geoinfodok[sprint instance]
-| OGC API - Features/Tiles/Styles (demo) and Records (sprint instance)
+| https://demo.ldproxy.net/[ldproxy demo] - https://github.com/interactive-instruments/ldproxy[git]
+| OGC API - Features/Tiles/Styles/Records
 | https://github.com/cportele[Clemens Portele]
 
 | https://demo.pygeoapi.io/master[pygeoapi demo] - https://github.com/geopython/pygeoapi[git]
