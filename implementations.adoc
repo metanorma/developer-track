@@ -65,6 +65,10 @@
 | OGC API - Features/Coverages/Maps/Tiles/Styles
 | http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
+| https://www.pvretano.com/cubewerx/cubeserv/default/ogcapi/catalogues[CubeWerx Development/Demonstration Calagoues]
+| OGC API - Records
+| http://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
+
 | https://demo.mapmint.com/ogc-api/index.html[ZOO-Project Demonstration Server]
 | OGC API - Processes
 | http://github.com/gfenoy[Gérald Fenoy]
