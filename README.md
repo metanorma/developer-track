@@ -38,17 +38,17 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 11:10 - 11:30 Status of OGC API – Discrete Global Grid Systems (DGGS)
 * 11:30 - 11:45 Break
 * 11:45 - 13:15 Practical work: Block 1 (Routes, Coverages, Processes)
-* * An update on OGC API - Processes
-* * Module TBA
-* * Module TBA
+  * An update on OGC API - Processes
+  * Module TBA
+  * Module TBA
 * 13:15 - 14:45 Practical work: Block 2 (Coverages, DGGS)
-* * Module TBA
-* * Module TBA
-* * Module TBA
+* Module TBA
+* Module TBA
+* Module TBA
 * 14:45 - 16:15 Practical work: Block 3 (GeoPose, DGGS)
-* * Module TBA
-* * Module TBA
-* * Module TBA
+  * Module TBA
+  * Module TBA
+  * Module TBA
 * 16:15 - 16:30 Break
 * 16:30 - 17:30 Demonstrations
 * 17:30 - 17:50 Discussion
