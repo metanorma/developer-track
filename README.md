@@ -57,7 +57,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 ---
 **NOTE**
 
-OGC API - Processes is used by aspects of OGC API - Routes and OGC API - Coverages.
+OGC API - Processes is used by aspects/extensions of OGC API - Routes and OGC API - Coverages.
 
 ---
 
