@@ -42,9 +42,9 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
   * Module TBA
   * Module TBA
 * 13:15 - 14:45 Practical work: Block 2 (Coverages, DGGS)
-* Module TBA
-* Module TBA
-* Module TBA
+  * Module TBA
+  * Module TBA
+  * Module TBA
 * 14:45 - 16:15 Practical work: Block 3 (GeoPose, DGGS)
   * Module TBA
   * Module TBA
