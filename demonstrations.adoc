@@ -1,37 +1,31 @@
 == Demonstrations
 
-This page lists all of the demonstrations that are to be presented during the Demonstration session. 
+This page lists all of the demonstrations that are to be presented during the Demonstration session.
 
-Participants (including any member of the audience) will be invited to present a demonstration of their prototype during the Demonstrations session. 
+Participants (including any member of the audience) will be invited to present a demonstration of their prototype during the Demonstrations session.
 
 All participants will be able to vote for their favorite demonstration
 
-*Until 17:15 EDT on March 25th, 2021 you can vote for your favorite demo at* https://twitter.com/opengeospatial
-
 === Entry 1
 
-Title: *CubeWerx TEP Demonstration*
+Title:
 
-Presenter: *Panagiotis (Peter) A. Vretanos - [CubeWerx Inc.]*
+Presenter:
 
-Abstract: A demonstration of part of a themathic exploitation platform that shows OGC API - Processes and OGC API - Records working together to execute deployed processes in distributed cloud environment (AWS).
+Abstract:
 
 === Entry 2
 
-Title: *CubeWerx OGC API - Records with legacy output formats*
+Title:
 
-Presenter: *Panagiotis (Peter) A. Vretanos - [CubeWerx Inc.]*
+Presenter:
 
-Abstract: A quick demo of an OGC API - Records server generating legacy output formats (CSW Record, etc.).
+Abstract:
 
 === Entry 3
 
-Title: *Skymantics Route to Airport*
+Title:
 
-Presenter: *Ignacio "Nacho" Correas - [Skymantics]*
+Presenter:
 
-Abstract: *A quick and dirty hack to add a routing process to pygeoapi, which calculates the travel time of the fastest route to Madrid airport, using Madrid area from Open Street Maps*
-
-
-
-
+Abstract: 

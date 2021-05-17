@@ -1,10 +1,25 @@
 == Specifications
 
+=== GeoPose
+
+* GeoPose, https://github.com/opengeospatial/GeoPose
+
+* GeoPose Guides, https://github.com/opengeospatial/GeoPoseGuides
+
+* GeoPose Web, https://github.com/opengeospatial/GeoPoseWeb
+
+* GeoPose Sandbox, https://github.com/opengeospatial/GeoPoseSandbox
+
+
 === OGC APIs
 
-* OGC API - Features, https://ogcapi.ogc.org/features
+* OGC API - Coverages, https://github.com/opengeospatial/ogcapi-coverages
 
-* OGC API - Coverages, https://ogcapi.ogc.org/coverages
+* OGC API - Routes, https://github.com/opengeospatial/ogcapi-routes
+
+* OGC API - Discrete Global Grid Systems, https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems
+
+* OGC API - Features, https://ogcapi.ogc.org/features
 
 * OGC API - Maps, https://ogcapi.ogc.org/maps
 
@@ -19,11 +34,3 @@
 * OGC API - Records, https://ogcapi.ogc.org/records
 
 * OGC API - Environmental Data Retrieval, https://ogcapi.ogc.org/edr
-
-* OGC API - Routes, https://github.com/opengeospatial/ogcapi-routes
-
-=== Example API definition documents
-
-An example OpenAPI definition document that implements *OGC API - Tiles* and *OGC API - Maps* can also be found at https://app.swaggerhub.com/apis/UAB-CREAF/ogc-api-map-tiles-opf-xmp-mt-more-1-collection/1.0.0
-
-An example OpenAPI definition document that implements *OGC API - Processes* can also be found at https://app.swaggerhub.com/apis/geoprocessing/ogcapi-processes/1.0-draft.6-SNAPSHOT

@@ -1,9 +1,9 @@
 == Frequently Asked Questions (FAQs)
 
-*Q: Will it be a complete development project or we have to solve a problem?*
+*Q: Will it be a complete development project or will we have to solve a problem?*
 
-A: Development and testing of the draft specification(s).
+A: Development and testing of the draft specification(s), as well as learning about the draft specification(s).
 
-*Q: What examples exist of servers that have already implemented the draft specifications?*
+*Q: How do I register for the event?*
 
-A: Examples of implementations are listed at https://github.com/opengeospatial/developer-track/blob/master/implementations.adoc
+A: Whether you are an OGC Member or not, you can register at https://ogcmeet.org[ogcmeet.org]
