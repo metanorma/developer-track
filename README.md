@@ -40,7 +40,8 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 11:45 - 13:15 Practical work: Block 1 (Routes, Coverages)
 * 13:15 - 14:45 Practical work: Block 2 (Coverages, DGGS)
 * 14:45 - 16:15 Practical work: Block 3 (GeoPose, DGGS)
-* 16:15 - 17:30 Demonstrations
+* 16:15 - 16:30 Break
+* 16:30 - 17:30 Demonstrations
 * 17:30 - 17:50 Discussion
 * 17:50 - 18:00 Wrap up and Close
 
