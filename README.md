@@ -54,7 +54,13 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 17:30 - 17:50 Discussion
 * 17:50 - 18:00 Wrap up and Close
 
-NOTE: OGC API - Processes is used by aspects of OGC API - Routes and OGC API - Coverages.
+---
+**NOTE**
+
+OGC API - Processes is used by aspects of OGC API - Routes and OGC API - Coverages.
+
+---
+
 
 Quick Links
 ------
