@@ -19,7 +19,7 @@ About the next Developer Track session
 
 Register at https://portal.ogc.org/meet
 
-The focus of the next Developer Track session will be on [GeoPose](https://www.ogc.org/projects/groups/geoposeswg), and OGC APIs for [Coverages](https://github.com/opengeospatial/ogcapi-coverages), [Routes](https://github.com/opengeospatial/ogcapi-routes), [Discrete Global Grid Systems (DGGS)](https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems). Each practical work block will include a training, followed by prototype development.
+The focus of the next Developer Track session will be on [GeoPose](https://www.ogc.org/projects/groups/geoposeswg), and OGC APIs for [Coverages](https://github.com/opengeospatial/ogcapi-coverages), [Routes](https://github.com/opengeospatial/ogcapi-routes), [Discrete Global Grid Systems (DGGS)](https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems). Each practical work block will include training, followed by prototype development.
 
 Participants (including any member of the audience) will be invited to present a demonstration of their prototype during the Demonstrations session. All participants will be able to vote for their favourite demonstration.
 
