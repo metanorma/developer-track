@@ -1,0 +1,3 @@
+== Status of OGC API – Discrete Global Grid Systems (DGGS)
+
+Training/practical session delving into the development of the OGC API - DGGS json document structure (JSON Schema and OpenAPI definition) required to implement the full set of "core topological query functions" defined in section 8.3.3 of OGC Topic 21: part 1 v2.0 (ISO 19170-1).  Existing implementations of OGC DGGS APIs (developed during Testbed-16) include some but not all of these core query operations.
