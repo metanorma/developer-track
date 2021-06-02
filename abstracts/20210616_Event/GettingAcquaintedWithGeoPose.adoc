@@ -2,7 +2,7 @@
 
 The session will take place on June 16th at 14:45 - 16:15 EDT.
 
-Abstract (108 words): GeoPose is a draft OGC standard for encoding the location and orientation of objects in the real world. During this session, developers with limited geospatial engineering experience will learn how to:
+Abstract: GeoPose is a draft OGC standard for encoding the location and orientation of objects in the real world. During this session, developers with limited geospatial engineering experience will learn how to:
 
 1.  obtain the position of the sun anywhere on the Earth,
 2.  experiment with coordinate transformations using the GeoPose Sandbox, and
