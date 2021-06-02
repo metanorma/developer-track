@@ -39,7 +39,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 11:30 - 11:45 Break
 * 11:45 - 13:15 Practical work - Block 1: An update on OGC API - Processes
 * 13:15 - 14:45 Practical work - Block 2: JSON Schema for the DGGS API
-* 14:45 - 16:15 Practical work - Block 3: Getting Acquainted with GeoPose
+* 14:45 - 16:15 Practical work - Block 3: https://github.com/opengeospatial/developer-track/blob/main/abstracts/20210616_Event/GettingAcquaintedWithGeoPose.adoc[Getting Acquainted with GeoPose]
 * 16:15 - 16:30 Break
 * 16:30 - 17:30 Demonstrations
 * 17:30 - 17:50 Discussion
