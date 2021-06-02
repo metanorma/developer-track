@@ -16,11 +16,9 @@ Although there can be preparations in advance, such as mapping an area with a Vi
 
 There will be three modules, each with a different objective and outcome.
 
-Module 1: The developer will learn how to obtain the position of the sun anywhere in the world using the Solar GeoPose service interface. The service responds to HTTPS GET requests for examples of any of the JSON-encoded Standardization Targets, giving a single or sequence of GeoPoses for a specified latitude, longitude, and Unix time - default time "Now". It also responds to HTTPS POST requests to validate examples of any of the Standardization Targets.
-
-Module 2: The developer will learn how to use the GeoPose Sandbox to transform location and orientation from one representation to another. Using the GeoPose Sandbox, an environment for experimentation with GeoPose concepts, the developer
-
-Module 3: The developer will learn how to use the Open Spatial Computing Platform GeoPose Protocol to retrieve digital content based on a position and orientation. Using the OSCP GeoPose-compliant protocol, the developer will send a position and orientation to the Spatial Content Discovery service and receive the content stored in a pre-populated Spatial Record.
+* Module 1: The developer will learn how to obtain the position of the sun anywhere in the world using the Solar GeoPose service interface. The service responds to HTTPS GET requests for examples of any of the JSON-encoded Standardization Targets, giving a single or sequence of GeoPoses for a specified latitude, longitude, and Unix time - default time "Now". It also responds to HTTPS POST requests to validate examples of any of the Standardization Targets.
+* Module 2: The developer will learn how to use the GeoPose Sandbox to transform location and orientation from one representation to another. Using this development playground, the participants will be able to explore the underlying concepts of GeoPose and experiment with them in different scenarios.
+* Module 3: The developer will learn how to use the Open Spatial Computing Platform GeoPose Protocol to retrieve digital content based on a position and orientation. Using the OSCP GeoPose-compliant protocol, the developer will send a position and orientation to the Spatial Content Discovery service and receive the content stored in a pre-populated Spatial Record.
 
 *Module Leaders*
 
