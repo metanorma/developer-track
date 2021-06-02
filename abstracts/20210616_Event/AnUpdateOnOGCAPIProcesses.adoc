@@ -1,0 +1,5 @@
+== An Update on OGC API - Processes
+
+The session will take place on June 16th, 2021 at 11:45 - 13:15 EDT.
+
+The OGC API - Processes specification defines how a client application can request the execution of a process, how the inputs to that process can be provided, and how the output from the process is handled. The specification allows for the wrapping of computational tasks into an executable process that can be invoked by a client application. Examples of computational processes that can be supported by implementations of this specification include raster algebra, geometry buffering, constructive area geometry, routing and several others.

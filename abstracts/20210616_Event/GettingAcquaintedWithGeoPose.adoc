@@ -1,6 +1,6 @@
 == Title of the Session: Getting Acquainted with GeoPose
 
-The session will take place on June 16th at 14:45 - 16:15 EDT.
+The session will take place on June 16th, 2021 at 14:45 - 16:15 EDT.
 
 Abstract: GeoPose is a draft OGC standard for encoding the location and orientation of objects in the real world. During this session, developers with limited geospatial engineering experience will learn how to:
 
