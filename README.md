@@ -35,7 +35,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 10:10 - 10:30 Status of [GeoPose](https://github.com/opengeospatial/GeoPose) presented by Steve Smyth (OpenSite Plan)
 * 10:30 - 10:50 Status of [OGC API – Coverages](https://ogcapi.ogc.org/coverages) presented by Stephan Meißl (EOX) and Jérôme Jacovella-St-Louis (Ecere Corporation)
 * 10:50 - 11:10 Status of [OGC API – Routes](https://ogcapi.ogc.org/routes) presented by Jeff Harrison (AGC) and Others
-* 11:10 - 11:30 Status of [OGC API – Discrete Global Grid Systems (DGGS)](https://ogcapi.ogc.org/dggs/) presented by Matt Purss (Pangaea Innovations) & Robert Gibb (Landcare Research New Zealand)
+* 11:10 - 11:30 Status of [OGC API – Discrete Global Grid Systems (DGGS)](https://ogcapi.ogc.org/dggs/) presented by Robert Gibb (Landcare Research New Zealand) & Matt Purss (Pangaea Innovations)
 * 11:30 - 11:45 Break
 * 11:45 - 13:15 Practical work - Block 1: [An update on OGC API - Processes](https://github.com/opengeospatial/developer-track/blob/main/abstracts/20210616_Event/AnUpdateOnOGCAPIProcesses.adoc)
 * 13:15 - 14:45 Practical work - Block 2: [JSON Schema for OGC API - DGGS](https://github.com/opengeospatial/developer-track/blob/main/abstracts/20210616_Event/JSONSchemaForOGCAPIDGGS.adoc)
