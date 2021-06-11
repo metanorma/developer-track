@@ -4,8 +4,8 @@ The session will take place on June 16th, 2021 at 14:45 - 16:15 EDT.
 
 Abstract: GeoPose is a draft OGC standard for encoding the location and orientation of objects in the real world. During this session, developers with limited geospatial engineering experience will learn how to:
 
-1.  obtain the position of the sun anywhere on the Earth,
-2.  experiment with coordinate transformations using the GeoPose Sandbox, and
+1.  explore the underlying concepts of GeoPose and experiment with them in different scenarios using the GeoPose Sandbox,
+2.  work with the eight different JSON encodings of GeoPose with an example GeoPose service giving the GeoPose of the sun for any time or location and
 3.  use the draft OSCP GeoPose-compliant protocol to retrieve content from a Spatial Content Record.
 
 Although there can be preparations in advance, such as mapping an area with a Visual Positioning Service, developers will not need any content or to install any proprietary software to experience the benefits of GeoPose and the modules of this session.
@@ -16,12 +16,14 @@ Although there can be preparations in advance, such as mapping an area with a Vi
 
 There will be three modules, each with a different objective and outcome.
 
-* Module 1: The developer will learn how to use the GeoPose Sandbox to transform location and orientation from one representation to another. Using this development playground, the participants will be able to explore the underlying concepts of GeoPose and experiment with them in different scenarios.
-* Module 2: The developer will learn how to obtain the position of the sun anywhere in the world using the Solar GeoPose service interface. The service responds to HTTPS GET requests for examples of any of the JSON-encoded Standardization Targets, giving a single or sequence of GeoPoses for a specified latitude, longitude, and Unix time - default time "Now". It also responds to HTTPS POST requests to validate examples of any of the Standardization Targets.
+* Module 1: Using the GeoPose Sandbox, a development playground, the participants will be able to explore the underlying concepts of GeoPose and experiment with them in different scenarios. For example, the developer will learn how to transform location and orientation from one representation to another. 
+
+* Module 2: The developer will learn about and work with the eight different JSON encodings of GeoPose with an example web service that gives GeoPose of the sun for any time or location.
+
 * Module 3: The developer will learn how to use the Open Spatial Computing Platform GeoPose Protocol to retrieve digital content based on a position and orientation. Using the OSCP GeoPose-compliant protocol, the developer will send a position and orientation to the Spatial Content Discovery service and receive the content stored in a pre-populated Spatial Record.
 
 *Module Leaders*
 
-* Module 1: Mikel Salazar
-* Module 2: Steve Smyth
-* Module 3: James Jackson and Jan-Erik Vinje
+* Module 1: Mikel Salazar, Augmented Interaction/Open AR Cloud association
+* Module 2: Steve Smyth, Open Site Plan
+* Module 3: James Jackson and Jan-Erik Vinje, Open AR Cloud association
