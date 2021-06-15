@@ -56,7 +56,7 @@ OGC API - Processes is used by aspects/extensions of OGC API - Routes and OGC AP
 Quick Links
 ------
 
-* [Announcements](https://github.com/opengeospatial/developer-track/discussions/6)
+* [Announcements](https://github.com/opengeospatial/developer-track/discussions/14)
 * [Discussions](https://github.com/opengeospatial/developer-track/discussions)
 * [Specifications](./specs.adoc)
 * [Logistics](./logistics.adoc)
