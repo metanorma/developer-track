@@ -61,7 +61,6 @@ Quick Links
 * [Specifications](./specs.adoc)
 * [Logistics](./logistics.adoc)
 * [Implementations](./implementations.adoc)
-* [Datasets](./Shared_Datasets/README.md)
 * [Lessons and Next Steps](./lessonsAndNextSteps.adoc)
 * [Additional Resources](./additionalResources.adoc)
 * [Frequently Asked Questions (FAQs)](./FAQ.adoc)
