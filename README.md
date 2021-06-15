@@ -1,4 +1,4 @@
-# Developer Track at OGC Member Meetings
+# Developer Track at OGC Member Meetings - 
 
 
 This Github repository is for Developer Track sessions at OGC Member Meetings.
