@@ -20,7 +20,13 @@ There will be three modules, each with a different objective and outcome.
 
 * Module 2: The developer will learn about and work with the eight different JSON encodings of GeoPose with an example web service that gives GeoPose of the sun for any time or location.
 
-* Module 3: The developer will learn how to use the Open Spatial Computing Platform GeoPose Protocol to retrieve digital content based on a position and orientation. Using the OSCP GeoPose-compliant protocol, the developer will send a position and orientation to the Spatial Content Discovery service and receive the content stored in a pre-populated Spatial Record.
+* Module 3: The developer will learn how to use the OARC's Open Spatial Computing Platform "GeoPose Protocol" to based on visual positioning. Using the OSCP GeoPose-compliant protocol, the developer will post an image to a protocol compliant server and receive a GeoPose pose response back. 
+** Prerequisites for running the code:
+*** Command line window
+*** GIT
+*** Text editor or IDE
+*** Python 3 installed
+*** PIP 
 
 *Module Leaders*
 
