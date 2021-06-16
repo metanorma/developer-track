@@ -25,9 +25,25 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[CubeWerx OGC API Demo (Daraa)]
+| OGC API - Maps, Tiles, Styles, Features, Coverages
+| https://github.com/pomakis[Keith Pomakis]
+
+| https://demo.pygeoapi.io/master[pygeoapi demo] - https://github.com/geopython/pygeoapi[git]
+| OGC API - Features/Tiles/Processes/Records/STAC/Coverages
+| https://github.com/tomkralidis[Tom Kralidis]
+
+| https://maps.ecere.com/ogcapi[GNOSIS Map Server]
+| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
+| https://github.com/jerstlouis[Jerome St-Louis]
+
+| http://asgs.surroundaustralia.com[ASGS 2016 DGGS]
+| OGC API - DGGS (profile of OGC API - Features)
+| https://github.com/nicholascar[Nicholas Car]
+
+| https://tb16.geo-solutions.it/geoserver/dggs/ogc/dggs[GeoSolutions DGGS API demo]
+| OGC API - DGGS (profile of OGC API - Processes)
+| https://github.com/aaime[Andrea Aime]
 
 | TBA
 | TBA
