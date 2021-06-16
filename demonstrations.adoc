@@ -6,13 +6,15 @@ Participants (including any member of the audience) will be invited to present a
 
 All participants will be able to vote for their favorite demonstration
 
+*Registration Deadline at 1630 EDT on June 16th 2021*
+
 === Entry 1
 
 Title: OGC API - Processes by example
 
 Presenter: Gérald Fenoy (GeoLabs)
 
-Abstract: A tenative implementation (ZOO-Project) of the OGC API - Processes presented from basic examples, such as fractals production, to more complex ones such as Grid analytics, Smoothing, Despeckle, and much more. We will show how the Swagger-UI offers a clear view of the communication between client and server.
+Abstract: A tentative implementation (ZOO-Project) of the OGC API - Processes presented from basic examples, such as fractals production, to more complex ones such as Grid analytics, Smoothing, Despeckle, and much more. We will show how the Swagger-UI offers a clear view of the communication between client and server.
 
 === Entry 2
 
