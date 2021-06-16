@@ -9,3 +9,6 @@ The OGC API - Processes specification defines how a client application can reque
 
 Benjamin Pross (52 North), Stan Tillman (Hexagon)
 
+*Implementations from a recent workshop*
+
+https://github.com/opengeospatial/ogcapi-processes/blob/master/workshops/2021-06_Workshop_ties.adoc
