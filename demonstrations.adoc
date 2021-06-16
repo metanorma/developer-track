@@ -8,11 +8,11 @@ All participants will be able to vote for their favorite demonstration
 
 === Entry 1
 
-Title:
+Title: OGC API - Processes by example
 
-Presenter:
+Presenter: Gérald Fenoy (GeoLabs)
 
-Abstract:
+Abstract: A tenative implementation (ZOO-Project) of the OGC API - Processes presented from basic examples, such as fractals production, to more complex ones such as Grid analytics, Smoothing, Despeckle, and much more. We will show how the Swagger-UI offers a clear view of the communication between client and server.
 
 === Entry 2
 

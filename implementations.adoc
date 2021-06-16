@@ -45,6 +45,10 @@
 | OGC API - DGGS (profile of OGC API - Processes)
 | https://github.com/aaime[Andrea Aime]
 
+| http://tb17.geolabs.fr:8092/ogc-api/[ZOO-Project Basic HTML UI]
+| OGC API - Processes 
+| https://github.com/gfenoy[Gérlad Fenoy]
+
 | TBA
 | TBA
 | TBA
