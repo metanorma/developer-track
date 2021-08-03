@@ -10,7 +10,7 @@
 
 *Chat*
 
-* Discussions https://github.com/opengeospatial/developer-track/discussions
+* Gitter https://gitter.im/ogc-developer/workshops
 
 *Mailing list*
 

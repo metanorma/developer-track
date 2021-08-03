@@ -1,36 +1,29 @@
 == Specifications
 
-=== GeoPose
 
-* GeoPose, https://github.com/opengeospatial/GeoPose
-
-* GeoPose Guides, https://github.com/opengeospatial/GeoPoseGuides
-
-* GeoPose Web, https://github.com/opengeospatial/GeoPoseWeb
-
-* GeoPose Sandbox, https://github.com/opengeospatial/GeoPoseSandbox
+* 02:30 - 02:50 Presentation on [Observations and Measurements (O&M)](https://www.ogc.org/standards/om)
+* 02:50 - 03:10 Presentation on [CityGML](https://www.ogc.org/standards/citygml)
+* 03:10 - 03:30 Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg)
 
 
-=== OGC APIs
+=== GeoPackage
 
-* OGC API - Coverages, https://github.com/opengeospatial/ogcapi-coverages
+* GeoPackage Web, (http://www.geopackage.org/
 
-* OGC API - Routes, https://github.com/opengeospatial/ogcapi-routes
+* GeoPackage Standard, https://www.ogc.org/standards/geopackage
 
-* OGC API - Discrete Global Grid Systems, https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems
+* GeoPackage GitHub Repository, https://github.com/opengeospatial/geopackage
 
-* OGC API - Features, https://ogcapi.ogc.org/features
+* GeoPackage Wikipedia, https://en.wikipedia.org/wiki/GeoPackage
 
-* OGC API - Maps, https://ogcapi.ogc.org/maps
+=== Observations and Measurements (O&M)
 
-* OGC API - Tiles, https://ogcapi.ogc.org/tiles
+* O&M Standard, https://www.ogc.org/standards/om
 
-* OGC API - Processes, https://ogcapi.ogc.org/processes
+=== CityGML
 
-* OGC API - Styles, https://ogcapi.ogc.org/styles
+* CityGML Standard, https://www.ogc.org/standards/citygml
 
-* OGC API - Common, https://ogcapi.ogc.org/common
+=== Features & Geometry JSON
 
-* OGC API - Records, https://ogcapi.ogc.org/records
-
-* OGC API - Environmental Data Retrieval, https://ogcapi.ogc.org/edr
+* Features & Geometry JSON SWG, https://www.ogc.org/projects/groups/featgeojsonswg
