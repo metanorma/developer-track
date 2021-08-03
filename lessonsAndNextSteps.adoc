@@ -1,6 +1,6 @@
 = Immediate Lessons and Next Steps
 
-== Developer Track at the June 2021 OGC Member Meeting
+== Developer Track at the September 2021 OGC Member Meeting
 
 === Immediate Lessons
 
