@@ -20,24 +20,24 @@
 === GeoPackage implementations
 
 [#table_implementation,reftext='{table-caption} {counter:table-num}']
-.Service implementations
+.Software packages that implement the GeoPackage Encoding Standard as providers and/or consumers
 [cols=",,",width="75%",options="header",align="center"]
 |===
 |Implementation | Type | Github Repository
 
-| [GDAL](hhttps://gdal.org/)
+| https://gdal.org/[GDAL]
 | Supports GeoPackage Features as of version 1.11.0 and tiles since GDAL 2.0
 | https://github.com/OSGeo/gdal
 
-| [QGIS](https://www.qgis.org/en/site/)
+| https://www.qgis.org/en/site/[QGIS]
 | Based on GDAL/OGR, it can read and write GeoPackage Features as of version 2.10.1, and read Tiles as of version 2.18 
 | https://github.com/qgis/QGIS
 
-| [Geoserver GeoPackage Extension](https://docs.geoserver.org/latest/en/user/community/geopkg/)
+| https://docs.geoserver.org/latest/en/user/community/geopkg/[Geoserver GeoPackage Extension]
 | The plugin can handle both Tiles and Features. It can be the source of data for GeoServer.
 | 
 
-| [Esri]https://www.esri.com/en-us/home)
+| https://www.esri.com/en-us/home[Esri]
 |  ArcGIS for Desktop 10.2.2 and above support reading and writing GeoPackage Features. ArcGIS 10.3 for Desktop adds reading and writing GeoPackage Tiles. ArcGIS Runtime SDK's for Android and Java 10.2.4 and above support reading and writing GeoPackage Features, and reading GeoPackage Tiles. ArcGIS Pro version 1.1 supports reading GeoPackage Features.
 | 
 
