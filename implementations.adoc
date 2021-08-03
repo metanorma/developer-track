@@ -17,64 +17,35 @@
 | TBA
 |===
 
-=== Server-side implementations
+=== GeoPackage implementations
 
 [#table_implementation,reftext='{table-caption} {counter:table-num}']
 .Service implementations
 [cols=",,",width="75%",options="header",align="center"]
 |===
-|Implementation | Type | Contact
+|Implementation | Type | Github Repository
 
-| https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[CubeWerx OGC API Demo (Daraa)]
-| OGC API - Maps, Tiles, Styles, Features, Coverages
-| https://github.com/pomakis[Keith Pomakis]
+| [GDAL](hhttps://gdal.org/)
+| Supports GeoPackage Features as of version 1.11.0 and tiles since GDAL 2.0
+| https://github.com/OSGeo/gdal
 
-| https://demo.pygeoapi.io/master[pygeoapi demo] - https://github.com/geopython/pygeoapi[git]
-| OGC API - Features/Tiles/Processes/Records/STAC/Coverages
-| https://github.com/tomkralidis[Tom Kralidis]
+| [QGIS](https://www.qgis.org/en/site/)
+| Based on GDAL/OGR, it can read and write GeoPackage Features as of version 2.10.1, and read Tiles as of version 2.18 
+| https://github.com/qgis/QGIS
 
-| https://maps.ecere.com/ogcapi[GNOSIS Map Server]
-| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
-| https://github.com/jerstlouis[Jerome St-Louis]
+| [Geoserver GeoPackage Extension](https://docs.geoserver.org/latest/en/user/community/geopkg/)
+| The plugin can handle both Tiles and Features. It can be the source of data for GeoServer.
+| 
 
-| http://asgs.surroundaustralia.com[ASGS 2016 DGGS]
-| OGC API - DGGS (profile of OGC API - Features)
-| https://github.com/nicholascar[Nicholas Car]
-
-| https://tb16.geo-solutions.it/geoserver/dggs/ogc/dggs[GeoSolutions DGGS API demo]
-| OGC API - DGGS (profile of OGC API - Processes)
-| https://github.com/aaime[Andrea Aime]
-
-| http://tb17.geolabs.fr:8092/ogc-api/[ZOO-Project Basic HTML UI]
-| OGC API - Processes 
-| https://github.com/gfenoy[Gérlad Fenoy]
+| [Esri]https://www.esri.com/en-us/home)
+|  ArcGIS for Desktop 10.2.2 and above support reading and writing GeoPackage Features. ArcGIS 10.3 for Desktop adds reading and writing GeoPackage Tiles. ArcGIS Runtime SDK's for Android and Java 10.2.4 and above support reading and writing GeoPackage Features, and reading GeoPackage Tiles. ArcGIS Pro version 1.1 supports reading GeoPackage Features.
+| 
 
 | TBA
 | TBA
 | TBA
 
 |===
-
-
-=== Client-side implementations
-
-[#table_implementation,reftext='{table-caption} {counter:table-num}']
-.Client implementations
-[cols=",,",width="75%",options="header",align="center"]
-|===
-|Implementation | Type | Contact
-
-| TBA
-| TBA
-| TBA
-
-| TBA
-| TBA
-| TBA
-|===
-
-
-
 
 
 === Executable Test Suite
