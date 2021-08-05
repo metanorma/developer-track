@@ -38,10 +38,10 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 03:10 - 03:30 Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg) by Clemens Portele (interactive instruments)
 * 03:30 - 03:45 Break
 * 03:45 - 05:15 Practical work: Block 1
-  * [T17 - GeoPackage with encrypted content]() by Dr. Andreas Matheus (Secure Dimensions)
+  * [T17 - GeoPackage with encrypted content](), by Dr. Andreas Matheus (Secure Dimensions)
 * 05:15 - 06:45 Practical work: Block 2
-  * Converting OpenDrive to CityGML with the [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/). Instructor Christof Beil (Technische Universität München)
-  * To Be Confirmed: Transitioning from CityGML 2.0 to 3.0 with citygml4j. Instructor: Claus Nagel (Virtual City Systems)
+  * Converting OpenDrive to CityGML with the [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), by Christof Beil (Technische Universität München)
+  * To Be Confirmed: Transitioning from CityGML 2.0 to 3.0 with citygml4j, by Claus Nagel (Virtual City Systems)
 * 06:45 - 08:15 Practical work: Block 3
   * TBA
 * 08:15 - 08:30 Break
