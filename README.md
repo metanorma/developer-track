@@ -35,15 +35,15 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * 02:10 - 02:30 Presentation on [GeoPackage 1.3.0](http://www.geopackage.org/) by Jeff Yutzler (Image Matters)
 * 02:30 - 02:50 Presentation on [Observations and Measurements (O&M)](https://www.ogc.org/standards/om)
 * 02:50 - 03:10 Presentation on [CityGML 3.0](https://github.com/opengeospatial/CityGML-3.0CM) by Dr. Tatjana Kutzner (Technische Universität München)
-* 03:10 - 03:30 Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg)
+* 03:10 - 03:30 Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg) by Clemens Portele (interactive instruments)
 * 03:30 - 03:45 Break
 * 03:45 - 05:15 Practical work: Block 1
-  * To Be Confirmed: OMS 3.0, SensorThings API etc
+  * [T17 - GeoPackage with encrypted content]() by Dr. Andreas Matheus (Secure Dimensions)
 * 05:15 - 06:45 Practical work: Block 2
   * Converting OpenDrive to CityGML with the [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/). Instructor Christof Beil (Technische Universität München)
   * To Be Confirmed: Transitioning from CityGML 2.0 to 3.0 with citygml4j. Instructor: Claus Nagel (Virtual City Systems)
 * 06:45 - 08:15 Practical work: Block 3
-  * [T17 - GeoPackage with encrypted content]() by Dr. Andreas Matheus (Secure Dimensions)
+  * TBA
 * 08:15 - 08:30 Break
 * 08:30 - 09:30 Demonstrations
 * 09:30 - 09:50 Discussion
