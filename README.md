@@ -24,8 +24,8 @@ The focus of the next Developer Workshop session will be on [GeoPackage](http://
 Participants (including any member of the audience) will be invited to present a demonstration of their prototype during the Demonstrations session. All participants will be able to vote for their favourite demonstration.
 
 
-Agenda
-------
+Tentative Agenda
+----------------
 
 Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-york)
 
