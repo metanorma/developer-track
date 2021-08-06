@@ -43,7 +43,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
   * Converting OpenDrive to CityGML with the [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), presented by Christof Beil (Technische Universität München)
   * To Be Confirmed: Transitioning from CityGML 2.0 to 3.0 with citygml4j, presented by Claus Nagel (Virtual City Systems)
 * 06:45 - 08:15 Practical work: Block 3
-  * How to use the SensorThings API for querying and filtering object graphs of Observations & Measurements, presented by Hylke van de Schaaf (Fraunhofer-Gesellschaft)
+  * How to use the SensorThings API for querying and filtering object graphs of Observations & Measurements, presented by Dr. Hylke van de Schaaf (Fraunhofer-Gesellschaft)
 * 08:15 - 08:30 Break
 * 08:30 - 09:30 Demonstrations
 * 09:30 - 09:50 Discussion
