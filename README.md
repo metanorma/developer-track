@@ -21,7 +21,7 @@ About the next Developer Track session
 
 **When: Wednesday 15<sup>th</sup> September 2021 from 02:00 AM EDT to 10:00 AM EDT**
 
-Register at https://portal.ogc.org/meet
+Register at https://store.ogc.org
 
 The focus of the next Developer Workshop session will be on [GeoPackage](http://www.geopackage.org/), [Observations and Measurements (O&M)](https://www.ogc.org/standards/om), [CityGML](https://www.ogc.org/standards/citygml) and [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg). Each practical work block will include training, followed by prototype development.
 
