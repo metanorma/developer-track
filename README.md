@@ -7,6 +7,10 @@ The Discussions are at https://github.com/opengeospatial/developer-track/discuss
 
 [#OGCAPI](https://twitter.com/hashtag/OGCAPI)
 
+[![Join the chat at https://gitter.im/ogc-developer/workshops](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ogc-developer/workshops)
+
+
+
 About the Developer Workshop sessions
 ----------------
 
