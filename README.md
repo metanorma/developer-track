@@ -46,7 +46,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * **05:15am - 06:45am** Practical work: Block 2
   * Converting OpenDrive to CityGML with the [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), presented by Christof Beil (Technische Universität München)
 * **06:45am - 08:15am** Practical work: Block 3
-  * How to use the SensorThings API for querying and filtering object graphs of Observations & Measurements, presented by Dr. Hylke van de Schaaf (Fraunhofer-Gesellschaft)
+  * How to use the SensorThings API for querying and filtering object graphs of Observations & Measurements, presented by Dr. Hylke van de Schaaf (Fraunhofer-Gesellschaft) and Kathi Schleidt (DataCove.eu)
 * **08:15am - 08:30am** Break
 * **08:30am - 09:30am** Demonstrations
 * **09:30am - 09:50am** Discussion
