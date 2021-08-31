@@ -12,6 +12,3 @@
 
 * Gitter https://gitter.im/ogc-developer/workshops
 
-*Mailing list*
-
-developer.track**[at]**lists.ogc.org
