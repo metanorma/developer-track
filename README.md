@@ -3,7 +3,7 @@
 
 This Github repository is for `Developer Workshop` sessions at OGC Member Meetings, previously called `Developer Track`.
 
-The Discussions are at https://github.com/opengeospatial/developer-track/discussions
+The Discussions are on Gitter at https://gitter.im/ogc-developer/workshops
 
 [#OGCAPI](https://twitter.com/hashtag/OGCAPI)
 
@@ -44,7 +44,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * **03:45am - 05:15am** Practical work: Block 1
   * Testbed 17 - GeoPackage with encrypted content, presented by Dr. Andreas Matheus (Secure Dimensions)
 * **05:15am - 06:45am** Practical work: Block 2
-  * Converting OpenDrive to CityGML with the [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), presented by Christof Beil (Technische Universität München)
+  * Generating detailed 3D Streetspace Models in CityGML 3.0 using the free OpenDRIVE data conversion tool [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), presented by Christof Beil (Technische Universität München)
 * **06:45am - 08:15am** Practical work: Block 3
   * How to use the SensorThings API for querying and filtering object graphs of Observations & Measurements, presented by Dr. Hylke van de Schaaf (Fraunhofer-Gesellschaft) and Kathi Schleidt (DataCove.eu)
 * **08:15am - 08:30am** Break
