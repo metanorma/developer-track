@@ -42,7 +42,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * **03:10am - 03:30am** Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg) by Clemens Portele (interactive instruments)
 * **03:30am - 03:45am** Break
 * **03:45am - 05:15am** Practical work: Block 1
-  * Testbed 17 - GeoPackage with encrypted content, presented by Dr. Andreas Matheus (Secure Dimensions)
+  * Testbed 17 - GeoPackage security through encrypted content, presented by Dr. Andreas Matheus (Secure Dimensions)
 * **05:15am - 06:45am** Practical work: Block 2
   * Generating detailed 3D Streetspace Models in CityGML 3.0 using the free OpenDRIVE data conversion tool [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), presented by Christof Beil (Technische Universität München)
 * **06:45am - 08:15am** Practical work: Block 3
