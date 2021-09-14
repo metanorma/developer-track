@@ -37,7 +37,7 @@ Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * **02:00am - 02:05am** Welcome Remarks by Dr. Gobe Hobona and Dr. Joana Simoes (OGC)
 * **02:05am - 02:10am** Program for the day and Ways of Working by Dr. Joana Simoes (OGC)
 * **02:10am - 02:30am** Presentation on [GeoPackage 1.3.0](http://www.geopackage.org/) by Jeff Yutzler (Image Matters)
-* **02:30am - 02:50am** Presentation on [Observations, Measurements and Samples (OMS) 3.0](https://www.ogc.org/standards/om) by Ilkka Rinne (Spatineo)
+* **02:30am - 02:50am** Presentation on [Observations, Measurements and Samples (OMS) 3.0](https://miro.com/app/board/o9J_lxZjCvU=/) by Ilkka Rinne (Spatineo)
 * **02:50am - 03:10am** Presentation on [CityGML 3.0](https://github.com/opengeospatial/CityGML-3.0CM) by Dr. Tatjana Kutzner (Technische Universität München)
 * **03:10am - 03:30am** Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg) by Clemens Portele (interactive instruments)
 * **03:30am - 03:45am** Break
