@@ -14,7 +14,7 @@ The Discussions are on Gitter at https://gitter.im/ogc-developer/workshops
 About the Developer Workshop sessions
 ----------------
 
-The goal of the Developer Workshop sessions is to provide developers with exposure to the OGC standards, as well as to share productivity advice about implementing the standards.
+The goal of the Developer Workshop sessions is to provide developers with exposure to OGC standards, as well as to share productivity advice about implementing the standards.
 
 About the next Developer Track session
 ----------------
