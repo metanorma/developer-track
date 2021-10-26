@@ -19,38 +19,30 @@ The goal of the Developer Workshop sessions is to provide developers with exposu
 About the next Developer Track session
 ----------------
 
-**When: Wednesday 15<sup>th</sup> September 2021 from 02:00 AM EDT to 10:00 AM EDT**
+**When: Wednesday 8<sup>th</sup> December 2021 from 11:00 EST to 19:00 EDT**
 
 Register at https://store.ogc.org
 
-The focus of the next Developer Workshop session will be on [GeoPackage](http://www.geopackage.org/), [Observations and Measurements (O&M)](https://www.ogc.org/standards/om), [CityGML](https://www.ogc.org/standards/citygml) and [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg). Each practical work block will include training, followed by prototype development.
-
-Participants (including any member of the audience) will be invited to present a demonstration of their prototype during the Demonstrations session. All participants will be able to vote for their favourite demonstration.
+The workshop will provide presentations and practical work (e.g. tutorials) on a variety of topics relating to OGC Standards. Each practical work block will include training, followed by prototype development.
 
 
 Tentative Agenda
 ----------------
 
-Times in [EDT (New York time)](https://www.timeanddate.com/worldclock/usa/new-york)
+Times in [EST (New York time)](https://www.timeanddate.com/worldclock/usa/new-york)
 
 
-* **02:00am - 02:05am** Welcome Remarks by Dr. Gobe Hobona and Dr. Joana Simoes (OGC)
-* **02:05am - 02:10am** Program for the day and Ways of Working by Dr. Joana Simoes (OGC)
-* **02:10am - 02:30am** Presentation on [GeoPackage 1.3.0](http://www.geopackage.org/) by Jeff Yutzler (Image Matters)
-* **02:30am - 02:50am** Presentation on [Observations, Measurements and Samples (OMS) 3.0](https://miro.com/app/board/o9J_lxZjCvU=/) by Ilkka Rinne (Spatineo)
-* **02:50am - 03:10am** Presentation on [CityGML 3.0](https://github.com/opengeospatial/CityGML-3.0CM) by Dr. Tatjana Kutzner (Technische Universität München)
-* **03:10am - 03:30am** Presentation on [Features & Geometry JSON](https://www.ogc.org/projects/groups/featgeojsonswg) by Clemens Portele (interactive instruments)
-* **03:30am - 03:45am** Break
-* **03:45am - 05:15am** Practical work: Block 1
-  * Testbed 17 - GeoPackage security through encrypted content, presented by Dr. Andreas Matheus (Secure Dimensions)
-* **05:15am - 06:45am** Practical work: Block 2
-  * Generating detailed 3D Streetspace Models in CityGML 3.0 using the free OpenDRIVE data conversion tool [r:tron](https://www.asg.ed.tum.de/en/gis/software/rtron/), presented by Christof Beil (Technische Universität München)
-* **06:45am - 08:15am** Practical work: Block 3
-  * How to use the SensorThings API for querying and filtering object graphs of Observations & Measurements, presented by Dr. Hylke van de Schaaf (Fraunhofer-Gesellschaft) and Kathi Schleidt (DataCove.eu)
-* **08:15am - 08:30am** Break
-* **08:30am - 09:30am** Demonstrations
-* **09:30am - 09:50am** Discussion
-* **09:50am - 10:00am** Wrap up and Closing Remarks by Dr. Joana Simoes (OGC)
+* **11:00 - 11:05** Welcome Remarks
+* **11:05 - 11:10** Program for the day and Ways of Working 11:10 - 11:30 Presentation 1
+* **11:30 - 11:50** Presentation 2
+* **11:50 - 12:10** Presentation 3
+* **12:10 - 12:30** Presentation 4
+* **12:30 - 12:45** Break
+* **12:45 - 14:15** Practical work: Block 1
+* **14:15 - 15:45** Practical work: Block 2
+* **15:45 - 17:15** Practical work: Block 3
+* **17:15 - 18:45** Practical work: Block 4
+* **18:45 - 19:00** Wrap up and Close
 
 Quick Links
 ------
