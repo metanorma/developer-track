@@ -16,7 +16,7 @@ About the Developer Workshop sessions
 
 The goal of the Developer Workshop sessions is to provide developers with exposure to OGC standards, as well as to share productivity advice about implementing the standards.
 
-About the next Developer Track session
+About the next session
 ----------------
 
 **When: Wednesday 8<sup>th</sup> December 2021 from 11:00 EST to 19:00 EDT**
