@@ -33,15 +33,16 @@ Times in [EST (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 
 
 * **11:00 - 11:05** Welcome Remarks
-* **11:05 - 11:10** Program for the day and Ways of Working 11:10 - 11:30 Presentation 1
-* **11:30 - 11:50** Presentation 2
+* **11:05 - 11:10** Program for the day and Ways of Working 
+* **11:10 - 11:30** Introductory Presentation: GeoPackage with encrypted content - Dr. Andreas Matheus (Secure Dimensions GmbH)
+* **11:30 - 11:50** Introductory Presentation: Datacubes Analytics through WCPS - Dr. Peter Baumann (rasdaman GmbH)
 * **11:50 - 12:10** Presentation 3
 * **12:10 - 12:30** Presentation 4
 * **12:30 - 12:45** Break
-* **12:45 - 14:15** Practical work: Block 1
-* **14:15 - 15:45** Practical work: Block 2
-* **15:45 - 17:15** Practical work: Block 3
-* **17:15 - 18:45** Practical work: Block 4
+* **12:45 - 14:15** Practical Work Block 1: GeoPackage with encrypted content - Dr. Andreas Matheus (Secure Dimensions GmbH)
+* **14:15 - 15:45** Practical work Block 2: Establishing Datacube analytics by writing WCPS queries - Dr. Peter Baumann (rasdaman GmbH)
+* **15:45 - 17:15** Practical work Block 3
+* **17:15 - 18:45** Practical work Block 4
 * **18:45 - 19:00** Wrap up and Close
 
 Quick Links
