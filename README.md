@@ -19,7 +19,7 @@ The goal of the Developer Workshop sessions is to provide developers with exposu
 About the next session
 ----------------
 
-**When: Wednesday 8<sup>th</sup> December 2021 from 11:00 EST to 19:00 EDT**
+**When: Wednesday 8<sup>th</sup> December 2021 from 11:00 EST to 19:00 EST**
 
 Register at https://store.ogc.org
 
