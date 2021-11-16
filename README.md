@@ -37,12 +37,13 @@ Times in [EST (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * **11:10 - 11:30** Introductory Presentation: GeoPackage with Encrypted Content, A New Approach - Dr. Andreas Matheus (Secure Dimensions GmbH)
 * **11:30 - 11:50** Introductory Presentation: Datacubes Analytics through WCPS - Dr. Peter Baumann (rasdaman GmbH)
 * **11:50 - 12:10** Introductory Presentation: Using the Metanorma Toolchain to Author OGC Standards - Ron Tse (Ribose)
-* **12:10 - 12:30** Presentation 4
-* **12:30 - 12:45** Break
-* **12:45 - 14:15** Practical Work Block 1: GeoPackage with Encrypted Content, A New Approach - Dr. Andreas Matheus (Secure Dimensions GmbH)
-* **14:15 - 15:45** Practical work Block 2: Establishing Datacube analytics by writing WCPS queries - Dr. Peter Baumann (rasdaman GmbH)
-* **15:45 - 17:15** Practical work Block 3: Using the Metanorma Toolchain to Author OGC Standards - Ron Tse (Ribose)
-* **17:15 - 18:45** Practical work Block 4
+* **12:10 - 12:20** Q & A
+* **12:20 - 12:30** Break
+* **12:30 - 14:30** Practical Work Block 1: GeoPackage with Encrypted Content, A New Approach - Dr. Andreas Matheus (Secure Dimensions GmbH)
+* **14:30 - 15:30** Plenary Luncheon
+* **15:30 - 17:00** Practical work Block 2: Establishing Datacube analytics by writing WCPS queries - Dr. Peter Baumann (rasdaman GmbH)
+* **17:00 - 18:30** Practical work Block 3: Using the Metanorma Toolchain to Author OGC Standards - Ron Tse (Ribose)
+* **18:30 - 18:45** Discussion
 * **18:45 - 19:00** Wrap up and Close
 
 Quick Links
