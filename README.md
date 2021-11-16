@@ -21,7 +21,7 @@ About the next session
 
 **When: Wednesday 8<sup>th</sup> December 2021 from 11:00 EST to 19:00 EST**
 
-Register at https://store.ogc.org
+Register at https://ogcmeet.org
 
 The workshop will provide presentations and practical work (e.g. tutorials) on a variety of topics relating to OGC Standards. Each practical work block will include training, followed by prototype development.
 
