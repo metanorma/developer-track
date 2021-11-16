@@ -40,7 +40,7 @@ Times in [EST (New York time)](https://www.timeanddate.com/worldclock/usa/new-yo
 * **12:10 - 12:20** Q & A
 * **12:20 - 12:30** Break
 * **12:30 - 14:30** Practical Work Block 1: GeoPackage with Encrypted Content, A New Approach - Dr. Andreas Matheus (Secure Dimensions GmbH)
-* **14:30 - 15:30** Plenary Luncheon
+* **14:30 - 15:30** Reserved for Plenary Activity
 * **15:30 - 17:00** Practical work Block 2: Establishing Datacube analytics by writing WCPS queries - Dr. Peter Baumann (rasdaman GmbH)
 * **17:00 - 18:30** Practical work Block 3: Using the Metanorma Toolchain to Author OGC Standards - Ron Tse (Ribose)
 * **18:30 - 18:45** Discussion
